@@ -1,0 +1,40 @@
+1654679422329:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/c9/f_r4t8zn0n37yg_86tvtc6680000gp/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/sgolla/Library/Application Support/JetBrains/IdeaIC2021.3/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure
+1655183735659:sbt
+1655194523488:ld
+1655194524987:ls
+1655194529200:clear
+1655194542146:ls
+1655194850218:clean
+1655194856156:compile
+1655225163955:sbt -client
+1655709666744:compile
+1655709895627:update
+1655733738300:compile
+1655733861347:clar
+1655733863082:clear
+1655733866083:compile
+1655734134045:clear
+1655734135699:compile
+1655734156162:build
+1655734181182:compile
+1655738613965:compil
+1655738616071:compile
+1655739218799:compil
+1655739221916:compile
+1655739420249:sbt compile
+1655739435316:compile
+1655739596141:reload
+1655739604437:compile
+1655739620430:reload
+1655802068375:compile
+1655802122834:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/c9/f_r4t8zn0n37yg_86tvtc6680000gp/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/sgolla/Library/Application Support/JetBrains/IdeaIC2021.3/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure
+1655810246365:compile
+1655810521698:sbt clean compile
+1655810553276:clean
+1655810556813:compile
+1655810574790:reload
+1657640573050:compile
+1657640744526:clear
+1657640772549:sbt clean compile
+1657640964144:reload
+1657640981878:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/c9/f_r4t8zn0n37yg_86tvtc6680000gp/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/sgolla/Library/Application Support/JetBrains/IdeaIC2021.3/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure

@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(all {file:/Users/sgolla/Documents/Work/UniversityCourse/}root/products {file:/Users/sgolla/Documents/Work/UniversityCourse/}root/test:products, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / products, Test / products[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/sgolla/Documents/Work/UniversityCourse/target/scala-2.13/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/sgolla/Documents/Work/UniversityCourse/target/scala-2.13/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sgolla/Documents/Work/UniversityCourse/src/main/scala/controllers/UniversityCourseController.scala:53:16: constructor cannot be instantiated to expected type;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Some[A][0m
+[0m[[0m[31merror[0m] [0m[0m required: List[entities.Course][0m
+[0m[[0m[31merror[0m] [0m[0m          case Some(students) => Ok(students.asJson)[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 2 s, completed 13-Jul-2022, 9:51:02 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

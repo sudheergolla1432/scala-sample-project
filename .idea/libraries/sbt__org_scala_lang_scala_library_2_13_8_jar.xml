@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="sbt: org.scala-lang:scala-library:2.13.8:jar" type="Scala">
+    <properties>
+      <language-level>Scala_2_13</language-level>
+      <compiler-classpath>
+        <root url="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8.jar" />
+        <root url="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar" />
+        <root url="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.21.0/jline-3.21.0.jar" />
+        <root url="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.jar" />
+        <root url="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar" />
+      </compiler-classpath>
+    </properties>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8.jar!/" />
+      <root url="file://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-alpn-java-client" />
+      <root url="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jetty" />
+      <root url="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/glassfish/jersey" />
+      <root url="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jetty" />
+      <root url="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-alpn-java-client" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jetty" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jetty" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/glassfish/jersey" recursive="false" />
+  </library>
+</component>

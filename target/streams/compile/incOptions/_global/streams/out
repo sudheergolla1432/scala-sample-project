@@ -1,0 +1,53 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/sgolla/Documents/Work/UniversityCourse/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$15$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$CourseNameQueryParamMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$CourseIdQueryParamMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$23$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$33$1$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$7$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$StudentIdQueryParamMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$15$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$23$1$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$33$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$StudentNameQueryParamMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$15$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$CourseNameQueryParamMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$CourseIdQueryParamMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$23$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$33$1$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$7$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$StudentIdQueryParamMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$15$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$23$1$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$33$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$StudentNameQueryParamMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$15$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$CourseNameQueryParamMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$CourseIdQueryParamMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$23$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$33$1$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$7$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$StudentIdQueryParamMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$15$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$23$1$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1$anon$importedEncoder$macro$33$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$StudentNameQueryParamMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UniversityCourseController$$anonfun$universityRoutes$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/sgolla/Documents/Work/UniversityCourse/target/scala-2.13/classes.bak[0m

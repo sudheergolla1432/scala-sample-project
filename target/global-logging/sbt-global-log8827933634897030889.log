@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(all {file:/Users/sgolla/Documents/Work/UniversityCourse/}root/products {file:/Users/sgolla/Documents/Work/UniversityCourse/}root/test:products, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / products, Test / products[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /Users/sgolla/Documents/Work/UniversityCourse/target/scala-2.13/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sgolla/Documents/Work/UniversityCourse/src/main/scala/controllers/UniversityCourseController.scala:69:82: could not find implicit value for parameter encoder: io.circe.Encoder[cats.effect.IO[Int]][0m
+[0m[[0m[31merror[0m] [0m[0m        Ok(UniversityCourseDao.registerForCourse(studentId.toInt,courseId.toInt).asJson)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sgolla/Documents/Work/UniversityCourse/src/main/scala/dao/UniversityCourseDao.scala:89:56: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: cats.effect.IO[cats.effect.ExitCode][0m
+[0m[[0m[31merror[0m] [0m[0m  override def run(args: List[String]): IO[ExitCode] = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 5 s, completed 13-Jul-2022, 12:06:34 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

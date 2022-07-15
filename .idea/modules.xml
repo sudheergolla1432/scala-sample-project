@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UniversityCourse.iml" filepath="$PROJECT_DIR$/.idea/modules/UniversityCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UniversityCourse-build.iml" filepath="$PROJECT_DIR$/.idea/modules/UniversityCourse-build.iml" />
+      <module fileurl="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/maven2.iml" filepath="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/maven2.iml" />
+      <module fileurl="file://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/org.iml" filepath="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/org.iml" />
+    </modules>
+  </component>
+</project>
